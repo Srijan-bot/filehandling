@@ -32,6 +32,5 @@
 
 <p align="center">
 
-## __ Opening & Closing of file__
-
+ **Opening & Closing of file**
 </p>
