@@ -61,3 +61,21 @@ f=open("1.txt","r")
 :point_up_2: This will genrate error shown as follow:
 > FileNotFoundError: [Errno 2] No such file or directory: '1.txt'
 
+<detial>
+<summary>reading file</summary>
+```
+f=open("sample.txt","r")
+read=f.read()
+print(read)
+f.close()
+```
+output will be: :point_down:
+`This gritty portrayal of art through adversity picks up where the author left us in Train of
+Thought; Poems from the Red Line. The book begins in Kendall Square, the home of M.I.T; moves on
+ to Central Square, the land of the Out of the Blue Gallery, The Middle East, and once T.T the
+Bears; on to Harvard with the Hahvad Punk kids; and exits at the home of famed Johnny Dâ€™s, Davis
+ Square. Join a poet with time to kill on the MBTA, with his worst enemy, his mind, and his best
+  friend, the pen.`
+
+</detail>
+
