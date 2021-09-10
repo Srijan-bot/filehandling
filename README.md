@@ -11,8 +11,8 @@
 1. **Text File**
    1. _RTF(Regular text files)_
    1. _DTF(Delimited text files)_
-    1. > TSV files(tab seprated value)<br>
-    1. > CSV files(comma seprated value)
+    * > TSV files(tab seprated value)<br>
+    * > CSV files(comma seprated value)
 <br>
 
 1.**Binary Files**
