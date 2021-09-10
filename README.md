@@ -15,7 +15,7 @@
     * > CSV files(comma seprated value)
 <br>
 
-1.**Binary Files**
+2.**Binary Files**
 
 **_ lets see the code itself :grin: _**
 <br>
@@ -35,8 +35,13 @@
  > *syntax:* <file_objectname>=open(<file_name>)
 
 ```
-
 f=open("sample.txt","r")
 f.close()
-
 ```
+> Type of function for opening a file.
+
+Symbol | Name | Function
+------------ | -------------   ---------
+`r` | Read mode | allow file to read-only.
+`w` | Write mode | allow file to edit in overwrite.
+`a` | Append mode | allow file to edit **without** overwriting it.
