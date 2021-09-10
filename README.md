@@ -61,6 +61,8 @@ f=open("1.txt","r")
 :point_up_2: This will genrate error shown as follow:
 > FileNotFoundError: [Errno 2] No such file or directory: '1.txt'
 
+<hr>
+
 ### reading file
 
 ```
