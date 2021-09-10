@@ -18,4 +18,11 @@
 1.**Binary Files**
 
 **_ lets see the code itself :grin: _**
+<br>
+
+[Sample file](https://github.com/Srijan-bot/filehandling/blob/main/sample.txt)
+<br>
+
+[Code File](https://github.com/Srijan-bot/filehandling/blob/main/one.py)
+
 <!-- 1. Item 2 -->
