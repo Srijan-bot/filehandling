@@ -1,2 +1,3 @@
-f=open("sample.txt","r")
+f=open("filehandling\sample.txt","r")
+print(f.read())
 f.close()

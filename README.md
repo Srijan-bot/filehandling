@@ -46,3 +46,18 @@ Symbol | Symbol(Binary) | Name | Function
 `w` | `wb` | Write mode | allow file to edit in overwrite.
 `a` | `ab` | Append mode | allow file to edit **without** overwriting it.
 
+# Read mode (r)
+
+> note! read is **Default** mode means f=open("sample.txt","r") & f=open("sample.txt) are exatly same!.
+
+```
+f=open("sample.txt","r")
+```
+/\ This will open sample file in `f` object.
+
+```
+f=open("1.txt","r")
+```
+/\ This will genrate error shown as follow:
+> FileNotFoundError: [Errno 2] No such file or directory: '1.txt'
+
