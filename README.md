@@ -30,7 +30,6 @@
 
 <br>
 
-<p align="center">
-
  **Opening & Closing of file**
-</p>
+
+ > *syntax:* <file_objectname>=open(<file_name>)
