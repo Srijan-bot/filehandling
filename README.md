@@ -41,7 +41,7 @@ f.close()
 > Type of function for opening a file.
 
 Symbol | Name | Function
------------- | -------------   ---------
+------------ | ------------- | -------------
 `r` | Read mode | allow file to read-only.
 `w` | Write mode | allow file to edit in overwrite.
 `a` | Append mode | allow file to edit **without** overwriting it.
