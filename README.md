@@ -33,3 +33,10 @@
  **Opening & Closing of file**
 
  > *syntax:* <file_objectname>=open(<file_name>)
+
+```
+
+f=open("sample.txt","r")
+f.close()
+
+```
