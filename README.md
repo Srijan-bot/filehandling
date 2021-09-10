@@ -24,5 +24,13 @@
 <br>
 
 [Code File](https://github.com/Srijan-bot/filehandling/blob/main/one.py)
-
+<br>
 <!-- 1. Item 2 -->
+
+
+## __ Opening & Closing of file__
+<br>
+
+<p align="center">
+  <a href="https://github.com/grip-framework/grip/actions"><img alt="Actions Status" src="https://img.shields.io/github/workflow/status/grip-framework/grip/Crystal%20CI?label=actions&style=flat-square"></a>
+</p>
