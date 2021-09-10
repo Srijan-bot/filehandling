@@ -53,11 +53,11 @@ Symbol | Symbol(Binary) | Name | Function
 ```
 f=open("sample.txt","r")
 ```
-/\ This will open sample file in `f` object.
+:point_up_2: This will open sample file in `f` object.
 
 ```
 f=open("1.txt","r")
 ```
-/\ This will genrate error shown as follow:
+:point_up_2: This will genrate error shown as follow:
 > FileNotFoundError: [Errno 2] No such file or directory: '1.txt'
 
